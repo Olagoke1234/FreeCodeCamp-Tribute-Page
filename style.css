@@ -1,0 +1,53 @@
+body {
+  background-color: teal;
+}
+#title {
+  display: block;
+  text-align: center;
+  font-size: 30px;
+  color: magenta;
+  padding: 1px 1px 1px 1px;
+  margin: auto;
+}
+h2 {
+  display: block;
+  text-align: center;
+  font-size: 15px;
+  color: black;
+  padding: 1px 1px 1px 1px;
+}
+#full-caption {
+  border-color: green;
+  border-style: transparent;
+}
+h3 {
+  display: block;
+  text-align: center;
+  font-size: 15px;
+  color: black;
+  padding: 1px 1px 1px 1px;
+}
+p {
+  text-align: justify;
+  font-size: 20px;
+  color: amber;
+  padding: 0px 20px 0px 20px;
+}
+#image {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  width: 25%;
+  height: 50%;
+  border-color: green;
+  border-style: solid;
+  color: blue;
+}
+#img-caption {
+  font-size: 10px;
+  text-align: center;
+  color: amber;
+}
+ {
+  padding: 0px 0px 0px 20px;
+}
